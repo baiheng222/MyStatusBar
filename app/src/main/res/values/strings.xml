@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyStatusBar</string>
+    <string name="menu_main_ocr">OCR</string>
+    <string name="menu_main_file">File</string>
+    <string name="menu_main_orders">Orders</string>
+    <string name="menu_main_settings">Settings</string>
+</resources>
